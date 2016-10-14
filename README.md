@@ -1,2 +1,5 @@
-# todo-lists
-:loop: a lists for listing todos items, and documenting them in GitHub with GFM (Github Flavored Markdown)
+## todo-lists
+
+This is a list of todos items:
+
+- [ ] Complete reading "[O`Reilly] High Performance JavaScript"
