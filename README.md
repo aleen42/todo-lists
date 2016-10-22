@@ -7,6 +7,7 @@ This is a list of todos items:
 - [x] Reading Post "[So, You're a Web Designer, Right?](https://aleen42.gitbooks.io/personalwiki/content/post/so_a_web_designer/so_a_web_designer.html)"
 - [x] Reading Post "[Styling SVG &lt;use&gt; Content with CSS](https://aleen42.gitbooks.io/personalwiki/content/post/style_svg_use/style_svg_use.html#summing-up)" and translate it into Chinese, asking crnacura for approval at the same time.
 - [x] Design mission badges for 12.17 Mission Day of Shenzhen.
+- [x] Complete the design of "[Mingtocat](https://github.com/aleen42/mingtocat)".
 
 ### Pocessing
 
