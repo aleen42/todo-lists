@@ -11,9 +11,9 @@ This is a list of todos items:
 
 ### Pocessing
 
-- [ ] Read the book named "[O`Reilly] Regular Expressions Cookbook", and learn about the basic of the Regular Expression in JavaScript before learning about their performance.
+- [ ] Read the book named "**[O`Reilly] Regular Expressions Cookbook**", and learn about the basic of the Regular Expression in JavaScript before learning about their performance.
 
-- [ ] Complete the reading of a book named "[O`Reilly] High Performance JavaScript".
+- [ ] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**".
 - [ ] Planing to complete a project for parsing sites to calculate the cross-browsered compatibility of any elemnts or functions used in it. (The project will be named as "caniuse-parser".
 - [ ] Optimize the project of drawing in JavaScript, and see how to draw color in a smart way.
 - [ ] Create a web application for extracting out data from Google Analytics by calling management APIs. [[**document**](https://developers.google.com/analytics/devguides/config/mgmt/v3/quickstart/web-js?hl=zh-cn)].
