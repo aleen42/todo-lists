@@ -8,6 +8,7 @@ This is a list of todos items:
 - [x] Reading Post "[Styling SVG &lt;use&gt; Content with CSS](https://aleen42.gitbooks.io/personalwiki/content/post/style_svg_use/style_svg_use.html#summing-up)" and translate it into Chinese, asking crnacura for approval at the same time.
 - [x] Design mission badges for 12.17 Mission Day of Shenzhen.
 - [x] Complete the design of "[Mingtocat](https://github.com/aleen42/mingtocat)".
+- [x] Complete the post for a description of 12.17 Mission Day of Shenzhen. [[**read**]](https://aleen42.gitbooks.io/personalwiki/content/post/1217_mission_of_shenzhen/1217_mission_of_shenzhen.html#description)
 
 ### Pocessing
 
