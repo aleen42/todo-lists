@@ -12,7 +12,7 @@ This is a list of todos items:
 
 ### Pocessing
 
-- [ ] Have a proofreading for the book "**[O`Reilly] React: Up & Running**", translated by @Zhangjd.
+- [ ] Have a proofreading for the book "**[O`Reilly] React: Up & Running**", translated by [@Zhangjd](https://github.com/Zhangjd).
 - [ ] Read the book named "**[O`Reilly] Regular Expressions Cookbook**", and learn about the basic of the Regular Expression in JavaScript before learning about their performance.
 
 - [ ] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**".
