@@ -16,7 +16,7 @@ This is a list of todos items:
 
 ### Pocessing
 
-- [ ] Translate the article "**Align SVG Icons to Text and Say Goodbye to Font Icons**".
+- [ ] Translate the article "**Align SVG Icons to Text and Say Goodbye to Font Icons**". [[**document**](https://github.com/xitu/gold-miner/blob/master/TODO/align-svg-icons-to-text-and-say-goodbye-to-font-icons.md)].
 - [ ] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**".
 - [ ] Planing to complete a project for parsing sites to calculate the cross-browsered compatibility of any elemnts or functions used in it. (The project will be named as "caniuse-parser".
 - [ ] Optimize the project of drawing in JavaScript, and see how to draw color in a smart way.
