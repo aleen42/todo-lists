@@ -12,10 +12,11 @@ This is a list of todos items:
 - [x] Read the book named "**[O`Reilly] Regular Expressions Cookbook**", and learn about the basic of the Regular Expression in JavaScript before learning about their performance.
 - [x] Have a proofreading for the book "**[O`Reilly] React: Up & Running**", translated by [@Zhangjd](https://github.com/Zhangjd).
 - [x] Complete the reading of a book named "**[O`Reilly] Data Structures and Alogorithms with JavaScript**".
+- [x] Have a revision each night for almostly 1 hours to prepare the interview of Alipay.
 
 ### Pocessing
 
-- [ ] Have a revision each night for almostly 1 hours to prepare the interview of Alipay. 
+- [ ] Translate the article "**Align SVG Icons to Text and Say Goodbye to Font Icons**".
 - [ ] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**".
 - [ ] Planing to complete a project for parsing sites to calculate the cross-browsered compatibility of any elemnts or functions used in it. (The project will be named as "caniuse-parser".
 - [ ] Optimize the project of drawing in JavaScript, and see how to draw color in a smart way.
