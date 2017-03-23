@@ -13,13 +13,13 @@ This is a list of todos items:
 - [x] Have a proofreading for the book "**[O`Reilly] React: Up & Running**", translated by [@Zhangjd](https://github.com/Zhangjd).
 - [x] Complete the reading of a book named "**[O`Reilly] Data Structures and Alogorithms with JavaScript**".
 - [x] Have a revision each night for almostly 1 hours to prepare the interview of Alipay.
+- [x] Optimize the project of drawing in JavaScript, and see how to draw color in a smart way.
+- [x] Translate the article "**Align SVG Icons to Text and Say Goodbye to Font Icons**". [[**document**](https://github.com/xitu/gold-miner/blob/master/TODO/align-svg-icons-to-text-and-say-goodbye-to-font-icons.md)].
 
 ### Pocessing
 
 - [ ] Translate the article "**The System Design Primer**".
-- [ ] 儘快上手 coremail 的工作
-- [ ] Translate the article "**Align SVG Icons to Text and Say Goodbye to Font Icons**". [[**document**](https://github.com/xitu/gold-miner/blob/master/TODO/align-svg-icons-to-text-and-say-goodbye-to-font-icons.md)].
+- [ ] Watches 3 videos of Coremail inc., and prepare the exam of training.
 - [ ] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**".
 - [ ] Planing to complete a project for parsing sites to calculate the cross-browsered compatibility of any elemnts or functions used in it. (The project will be named as "caniuse-parser".
-- [ ] Optimize the project of drawing in JavaScript, and see how to draw color in a smart way.
 - [ ] Create a web application for extracting out data from Google Analytics by calling management APIs. [[**document**](https://developers.google.com/analytics/devguides/config/mgmt/v3/quickstart/web-js?hl=zh-cn)].
