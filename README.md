@@ -18,8 +18,9 @@ This is a list of todos items:
 
 ### Pocessing
 
-- [ ] Translate the article "**The System Design Primer**".
 - [ ] Watches 3 videos of Coremail inc., and prepare the exam of training.
+- [ ] Learning Angular1.x, Angular 2, and Ionic through documents.
+- [ ] Plan to design the tool named **Framework Analyser Tool (FAT)**.
 - [ ] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**".
 - [ ] Planing to complete a project for parsing sites to calculate the cross-browsered compatibility of any elemnts or functions used in it. (The project will be named as "caniuse-parser".
 - [ ] Create a web application for extracting out data from Google Analytics by calling management APIs. [[**document**](https://developers.google.com/analytics/devguides/config/mgmt/v3/quickstart/web-js?hl=zh-cn)].
