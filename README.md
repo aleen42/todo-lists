@@ -15,10 +15,10 @@ This is a list of todos items:
 - [x] Have a revision each night for almostly 1 hours to prepare the interview of Alipay.
 - [x] Optimize the project of drawing in JavaScript, and see how to draw color in a smart way.
 - [x] Translate the article "**Align SVG Icons to Text and Say Goodbye to Font Icons**". [[**document**](https://github.com/xitu/gold-miner/blob/master/TODO/align-svg-icons-to-text-and-say-goodbye-to-font-icons.md)].
+- [x] Watches 3 videos of Coremail inc., and prepare the exam of training.
 
 ### Pocessing
 
-- [ ] Watches 3 videos of Coremail inc., and prepare the exam of training.
 - [ ] Learning Angular1.x, Angular 2, and Ionic through documents.
 - [ ] Plan to design the tool named **Framework Analyser Tool (FAT)**.
 - [ ] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**".
