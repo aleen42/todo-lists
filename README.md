@@ -23,6 +23,7 @@ This is a list of todos items:
 - [ ] Learn the official document of TypeScript. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/TypeScript.html)
 - [ ] Learn Vue framework. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/Framework/vue/vue.html)
 - [ ] Learn Angular1.x, Angular 2, and Ionic through documents.
+- [ ] To understand rules of JSDoc
 
 ### Unkown Tasks
 
