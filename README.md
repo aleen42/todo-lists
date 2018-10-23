@@ -20,12 +20,32 @@ This is a list of todos items:
 
 ### Pocessing
 
-- [ ] Learn the official document of TypeScript. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/TypeScript.html)
+- [ ] Learn the official document of TypeScript. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/TypeScript.html) (**In Progress**)
+  - [x] Basic Types
+  - [x] Variable Declarations
+  - [x] Interfaces
+  - [x] Classes
+  - [ ] Functions
+  - [ ] Generics
+  - [ ] Enums
+  - [ ] Type Inference
+  - [ ] Type Compatibility
+  - [ ] Symbols
+  - [ ] Iterators and Generators
+  - [ ] Modules
+  - [ ] Namespaces
+  - [ ] Namespaces and Modules
+  - [ ] Declaration Merging
+  - [ ] Decorators
+  - [ ] Mixins
+  - [ ] Triple-Slash Directives
+  - [ ] Type Checking
+- [ ] Note about Grid and Flow layouts in CSS
 - [ ] Learn Vue framework. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/Framework/vue/vue.html)
 - [ ] Learn Angular1.x, Angular 2, and Ionic through documents.
 - [ ] To understand rules of JSDoc
 
-### Unkown Tasks
+### Unkown Tasks (Not sure)
 
 - [ ] Plan to complete a project for parsing sites to calculate the cross-browsered compatibility of any elemnts or functions used in it. (The project will be named as "caniuse-parser".
 - [ ] Plan to design the tool named **Framework Analyser Tool (FAT)**.
