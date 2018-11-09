@@ -21,11 +21,11 @@ This is a list of todos items:
 ### Pocessing
 
 - [ ] Learn the official document of TypeScript. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/TypeScript.html) (**In Progress**)
-  - [x] Basic Types
-  - [x] Variable Declarations
-  - [x] Interfaces
-  - [x] Classes
-  - [ ] Functions
+  - [x] Basic Types [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/types/types.html)
+  - [x] Variable Declarations [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/variable_declarations/variable_declarations.html)
+  - [x] Interfaces [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/interfaces/interfaces.html)
+  - [x] Classes [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/classes/classes.html)
+  - [x] Functions [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/functions/functions.html)
   - [ ] Generics
   - [ ] Enums
   - [ ] Type Inference
