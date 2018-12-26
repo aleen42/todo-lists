@@ -44,6 +44,7 @@ This is a list of todos items:
 - [ ] Learn Vue framework. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/Framework/vue/vue.html)
 - [ ] Learn Angular1.x, Angular 2, and Ionic through documents.
 - [ ] To understand rules of JSDoc
+- [ ] To learn more about GraphQL, especially when intergated with JavaScript
 
 ### Unkown Tasks (Not sure)
 
