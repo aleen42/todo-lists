@@ -26,9 +26,9 @@ This is a list of todos items:
   - [x] Interfaces [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/interfaces/interfaces.html)
   - [x] Classes [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/classes/classes.html)
   - [x] Functions [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/functions/functions.html)
-  - [ ] Generics
-  - [ ] Enums
-  - [ ] Type Inference
+  - [x] Generics [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/generics/generics.html)
+  - [x] Enums [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/enums/enums.html)
+  - [x] Type Inference [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/type_inferences/type_inferences.html)
   - [ ] Type Compatibility
   - [ ] Symbols
   - [ ] Iterators and Generators
