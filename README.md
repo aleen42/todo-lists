@@ -29,7 +29,7 @@ This is a list of todos items:
   - [x] Generics [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/generics/generics.html)
   - [x] Enums [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/enums/enums.html)
   - [x] Type Inference [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/type_inferences/type_inferences.html)
-  - [ ] Type Compatibility
+  - [x] Type Compatibility [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/TypeScript.html)
   - [ ] Symbols
   - [ ] Iterators and Generators
   - [ ] Modules
