@@ -30,7 +30,7 @@ This is a list of todos items:
   - [x] Enums [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/enums/enums.html)
   - [x] Type Inference [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/type_inferences/type_inferences.html)
   - [x] Type Compatibility [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/TypeScript.html)
-  - [ ] Advanced Types
+  - [x] Advanced Types [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/advanced_types/advanced_types.html#2-union-types)
   - [ ] Symbols
   - [ ] Iterators and Generators
   - [ ] Modules
