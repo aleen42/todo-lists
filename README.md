@@ -32,7 +32,7 @@ This is a list of todos items:
   - [x] Type Compatibility [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/TypeScript.html)
   - [x] Advanced Types [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/advanced_types/advanced_types.html#2-union-types)
   - [x] Symbols [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/symbol/symbol.html)
-  - [ ] Iterators and Generators
+  - [x] Iterators and Generators [[**documents**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/iterators/iterators.html)
   - [ ] Modules
   - [ ] Namespaces
   - [ ] Namespaces and Modules
