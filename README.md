@@ -46,6 +46,7 @@ This is a list of todos items:
 - [ ] Learn Angular1.x, Angular 2, and Ionic through documents.
 - [ ] To understand rules of JSDoc
 - [ ] To learn more about GraphQL, especially when intergated with JavaScript
+- [ ] A compiler from JavaScript to Visual Basic
 
 ### Unkown Tasks (Not sure)
 
