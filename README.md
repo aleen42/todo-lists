@@ -34,7 +34,7 @@ This is a list of todos items:
   - [x] Symbols [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/symbol/symbol.html)
   - [x] Iterators and Generators [[**documents**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/iterators/iterators.html)
   - [x] Modules [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/modules/modules.html)
-  - [ ] Namespaces
+  - [x] Namespaces [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/namespaces/namespaces.html)
   - [ ] Namespaces and Modules
   - [ ] Declaration Merging
   - [ ] Decorators
