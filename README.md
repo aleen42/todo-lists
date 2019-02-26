@@ -33,7 +33,7 @@ This is a list of todos items:
   - [x] Advanced Types [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/advanced_types/advanced_types.html#2-union-types)
   - [x] Symbols [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/symbol/symbol.html)
   - [x] Iterators and Generators [[**documents**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/iterators/iterators.html)
-  - [ ] Modules
+  - [x] Modules [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/TypeScript/modules/modules.html)
   - [ ] Namespaces
   - [ ] Namespaces and Modules
   - [ ] Declaration Merging
