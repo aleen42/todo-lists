@@ -17,6 +17,7 @@ This is a list of todos items:
 - [x] Translate the article "**Align SVG Icons to Text and Say Goodbye to Font Icons**". [[**document**](https://github.com/xitu/gold-miner/blob/master/TODO/align-svg-icons-to-text-and-say-goodbye-to-font-icons.md)].
 - [x] Watches 3 videos of Coremail inc., and prepare the exam of training.
 - [x] Complete the reading of a book named "**[O`Reilly] High Performance JavaScript**". [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/high_performance/high_performance.html)
+- [x] [Watermarks](https://github.com/aleen42/watermarks) generation skills.
 
 ### Pocessing
 
