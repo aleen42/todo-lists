@@ -49,7 +49,7 @@ This is a list of todos items:
 - [ ] A compiler from JavaScript to Visual Basic
 - [ ] Implement the features of commenting by integrated with "[gitbook-comments](https://github.com/aleen42/gitbook-comments)".
   - [ ] GitLab Features
-  - [x] GitHub Features (Except subscribint state)
+  - [x] GitHub Features (Except subscribe state)
 
 ### Unkown Tasks (Not sure)
 
