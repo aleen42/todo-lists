@@ -46,6 +46,76 @@ This is a list of todos items:
 - [ ] Learn Vue framework. [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/Framework/vue/vue.html)
 - [ ] Learn Angular1.x, Angular 2, and Ionic through documents.
 - [ ] To understand rules of JSDoc
+  - [x] @abstract [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/jsdoc/abstract/abstract.html)
+  - [x] @access [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/jsdoc/access/access.html)
+  - [x] @alias [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/jsdoc/alias/alias.html)
+  - [ ] @async
+  - [ ] @augments (synonyms: @extends)
+  - [ ] @author
+  - [ ] @borrows
+  - [ ] @callback
+  - [ ] @class (synonyms: @constructor)
+  - [ ] @classdesc
+  - [ ] @constant (synonyms: @const)
+  - [ ] @constructs
+  - [ ] @copyright
+  - [ ] @default (synonyms: @defaultvalue)
+  - [ ] @deprecated
+  - [ ] @description (synonyms: @desc)
+  - [ ] @enum
+  - [ ] @event
+  - [ ] @example
+  - [ ] @exports
+  - [ ] @external (synonyms: @host)
+  - [ ] @file (synonyms: @fileoverview, @overview)
+  - [ ] @fires (synonyms: @emits)
+  - [ ] @function (synonyms: @func, @method)
+  - [ ] @generator
+  - [ ] @global
+  - [ ] @hideconstructor
+  - [ ] @ignore
+  - [ ] @implements
+  - [ ] @inheritdoc
+  - [ ] @inner
+  - [ ] @instance
+  - [ ] @interface
+  - [ ] @kind
+  - [ ] @lends
+  - [ ] @license
+  - [ ] @listens
+  - [ ] @member (synonyms: @var)
+  - [ ] @memberof
+  - [ ] @mixes
+  - [ ] @mixin
+  - [ ] @module
+  - [ ] @name
+  - [ ] @namespace
+  - [ ] @override
+  - [ ] @package
+  - [ ] @param (synonyms: @arg, @argument)
+  - [ ] @private
+  - [ ] @property (synonyms: @prop)
+  - [ ] @protected
+  - [ ] @public
+  - [ ] @readonly
+  - [ ] @requires
+  - [ ] @returns (synonyms: @return)
+  - [ ] @see
+  - [ ] @since
+  - [ ] @static
+  - [ ] @summary
+  - [ ] @this
+  - [ ] @throws (synonyms: @exception)
+  - [ ] @todo
+  - [ ] @tutorial
+  - [ ] @type
+  - [ ] @typedef
+  - [ ] @variation
+  - [ ] @version
+  - [ ] @yields (synonyms: @yield)
+  - [ ] {@link}
+  - [ ] {@tutorial}
+  - [x] Namepaths [[**document]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/jsdoc/namepaths/namepaths.html)
 - [ ] To learn more about GraphQL, especially when intergated with JavaScript
 - [ ] A compiler from JavaScript to Visual Basic
 - [ ] Implement the features of commenting by integrated with "[gitbook-comments](https://github.com/aleen42/gitbook-comments)".
