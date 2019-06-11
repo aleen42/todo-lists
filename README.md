@@ -115,7 +115,7 @@ This is a list of todos items:
   - [ ] @yields (synonyms: @yield)
   - [ ] {@link}
   - [ ] {@tutorial}
-  - [x] Namepaths [[**document]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/jsdoc/namepaths/namepaths.html)
+  - [x] Namepaths [[**document**]](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/jsdoc/namepaths/namepaths.html)
 - [ ] To learn more about GraphQL, especially when intergated with JavaScript
 - [ ] A compiler from JavaScript to Visual Basic
 - [ ] Implement the features of commenting by integrated with "[gitbook-comments](https://github.com/aleen42/gitbook-comments)".
